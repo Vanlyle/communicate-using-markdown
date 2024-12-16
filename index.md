@@ -5,3 +5,6 @@
 ##### Heading 5
 ###### Heading 6
 ![Image of Scubatocat](https://octodex.github.com/scubatocat/)
+```python
+print("Hello, GitHub")
+```
